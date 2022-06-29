@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChawKokFei
 - 👀 I’m interested in good food
-- 🌱 I’m currently learning slep early
+- 🌱 I’m currently learning mobile app development
 - 💞️ I’m looking to collaborate on anyone I guess
 - 📫 How to reach me chawkokfei96@gmail.com
 
