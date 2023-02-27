@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChawKokFei
 - 👀 I’m interested in good food
-- 🌱 I’m currently learning mobile app development
-- 💞️ I’m looking to collaborate on anyone I guess
+- 🌱 I’m currently learning about DevOps
+- 💞️ I’m looking to connect with like minded people
 - 📫 How to reach me chawkokfei96@gmail.com
 
 <!---
